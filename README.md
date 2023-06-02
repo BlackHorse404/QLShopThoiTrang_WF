@@ -1,4 +1,4 @@
-# [WINFORM] QUẢN LÝ THỜI TRANG
+# [WINFORM] QUẢN LÝ SHOP THỜI TRANG
 
 ## THÀNH VIÊN
 <ol>
