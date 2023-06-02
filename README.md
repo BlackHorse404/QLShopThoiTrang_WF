@@ -9,5 +9,5 @@
 </ol>
 
 ## MÔ HÌNH
-<img url="" alt="use case system"/>
+<img url="./background.jpg" alt="use case system"/>
 
