@@ -1,0 +1,13 @@
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\bin\Debug\QLShopThoiTrang.exe.config
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\bin\Debug\QLShopThoiTrang.exe
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\bin\Debug\QLShopThoiTrang.pdb
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.csproj.AssemblyReference.cache
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.Properties.Resources.resources
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.csproj.GenerateResource.cache
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.csproj.CoreCompileInputs.cache
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.exe
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.pdb
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.GUI.FormTrangChu.resources
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.GUI.FormDashboard.resources
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.GUI.FormLogin.resources
+E:\HUFI\Năm_3\HK2\Phân Tích Thiết Kế Hệ Thống\Thực Hành\SourceCode_DoAn\QLShopThoiTrang\QLShopThoiTrang\obj\Debug\QLShopThoiTrang.GUI.Formtest.resources

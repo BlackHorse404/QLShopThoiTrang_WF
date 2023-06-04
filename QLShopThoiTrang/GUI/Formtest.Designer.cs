@@ -1,7 +1,7 @@
 ﻿
 namespace QLShopThoiTrang.GUI
 {
-    partial class Dashboard
+    partial class Formtest
     {
         /// <summary>
         /// Required designer variable.
@@ -29,10 +29,17 @@ namespace QLShopThoiTrang.GUI
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Formtest
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Dashboard";
+            this.ClientSize = new System.Drawing.Size(1203, 727);
+            this.Name = "Formtest";
+            this.Text = "Formtest";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

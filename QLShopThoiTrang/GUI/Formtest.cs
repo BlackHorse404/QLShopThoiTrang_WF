@@ -1,5 +1,4 @@
-﻿using QLShopThoiTrang.DAL;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QLShopThoiTrang.GUI
 {
-    public partial class Dashboard : Form
+    public partial class Formtest : Form
     {
-        public Dashboard()
+        public Formtest()
         {
             InitializeComponent();
         }
