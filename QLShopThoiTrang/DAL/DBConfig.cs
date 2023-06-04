@@ -9,7 +9,7 @@ namespace QLShopThoiTrang.DAL
 {
     class DBConfig
     {
-        private static string serverName = "PHAT-MSI";
+        private static string serverName = "localhost";
         private static string dBname = "QLShopThoiTrang";
         private static string user = "";
         private static string pass = "";
